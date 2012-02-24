@@ -11,4 +11,4 @@
  
  Leiningen is for automating Clojure projects without setting your hair on fire.
  
- <script src="https://gist.github.com/1764749.js?file=alert.js"></script>
+ <script src="https://gist.github.com/1764749.js?file=alert.js"> </script>
